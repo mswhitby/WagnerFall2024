@@ -1,4 +1,4 @@
-# How to Create a GitHub Account, Repository, and journal.md File
+# How to Create a GitHub Account, Repository, and Journal File
 
 ## Step 1: Create a GitHub Account
 
