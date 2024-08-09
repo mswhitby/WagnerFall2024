@@ -33,7 +33,7 @@
 3. **Create the Repository:**
 - Click the green "Create repository" button at the bottom of the page. Your new repository is now set up!
 
-## Step 3: Create the journal.md File
+## Step 3: Create the Journal File
 
 1. **Add a New File:**
 - In your repository, look for a button that says "Add file." Click on it, and then choose "Create new file."
