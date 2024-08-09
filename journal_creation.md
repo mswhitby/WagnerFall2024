@@ -3,7 +3,7 @@
 ## Step 1: Create a GitHub Account
 
 1. **Visit GitHub's Website:**
-  - Open your web browser and go to [github.com](https://github.com/).
+-- Open your web browser and go to [github.com](https://github.com/).
 
 2. **Sign Up for a New Account:**
 - Click the "Sign up" button in the top right corner.
