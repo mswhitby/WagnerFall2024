@@ -25,7 +25,7 @@
 - On your GitHub dashboard, look for a green "New" button or the option that says "Create repository." Click it.
 
 2. **Fill in the Repository Details:**
-- **Repository Name:** Enter `TechNotes2024` as the name for your repository.
+- **Repository Name:** Enter `WHSTechNotes` as the name for your repository.
 - **Description (Optional):** You can add a brief description of your project if you'd like, but it's not required.
 - **Public or Private:** Decide if you want your repository to be public (anyone can see it) or private (only you can see it). For most school projects, public is fine.
 - **Initialize with a README:** Check the box that says "Add a README file." This file will be automatically created and will help others understand what your project is about.
@@ -64,7 +64,7 @@ Today, I created my first GitHub account and repository. I'm excited to start us
 ## Recap
 
 - **GitHub Account:** Created and verified.
-- **Repository:** Set up with a README file named `TechNotes2024`.
+- **Repository:** Set up with a README file named `WHSTechNotes`.
 - **journal.md:** Created with a date heading and entry for each day.
 
 Now that your GitHub is set up, you can use it to store and track all your projects and journal entries. Happy coding!
